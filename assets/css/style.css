@@ -174,7 +174,7 @@ ul.navbar-nav {
 .navbar-brand {
 	width: 72px;
 	height: 60px;
-	background: url(../img/logo.png) left center no-repeat;
+	/* background: url(../img/logo.png) left center no-repeat; */
 	text-indent: -99999px;
 }
 
